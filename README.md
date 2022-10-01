@@ -13,7 +13,7 @@
 ## :clipboard: Learning Outcomes 
 
 - Learnt the positioning of background svg
-- Learnt the use of `linear-gradient` background for HTML `buttons`
+- Learnt the use of `linear-gradient`in the background of HTML `buttons`
 
 ## :camera: Screenshot
 
