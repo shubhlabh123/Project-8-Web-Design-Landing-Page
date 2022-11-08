@@ -7,7 +7,7 @@
 
 ![time](https://img.shields.io/badge/time--to--complete-8--hrs--approx.-yellowgreen)
 
-## :link: [See it live](https://websomude.netlify.app/)
+## :link: [See it live](https://project-8-web-design-landing-page-1dup.vercel.app/)
 
 
 ## :clipboard: Learning Outcomes 
