@@ -277,10 +277,11 @@ nav img {
   }
   .circle {
     left: 140px;
+    width: 252px;
   }
   .left-section {
     margin-top: 374px;
-    margin-right: 35px;
+    margin-right: 10px;
     z-index: 3;
   }
   .left-section h1 {
