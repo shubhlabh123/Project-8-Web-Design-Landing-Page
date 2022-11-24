@@ -236,12 +236,12 @@ nav img {
     height: 15px;
   }
   .circle {
-    height: 1264px;
+    height: 921px;
     width: 674px;
     border-radius: 25%;
     z-index: -5;
     position: absolute;
-    left: 278px;
+    left: 97px;
     background: linear-gradient(
       to right,
       rgb(212, 188, 243),
